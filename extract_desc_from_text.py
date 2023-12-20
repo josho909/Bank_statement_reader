@@ -1,3 +1,5 @@
+import re
+
 def extract_desc_from_text(text):
     # Define date and number patterns to be stripped to return only transaction descriptions
     date_pattern = re.compile(r'^\d{2} \w{3}')

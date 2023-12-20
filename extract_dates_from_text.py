@@ -1,3 +1,5 @@
+import re
+
 def extract_dates_from_text(text):
     dates = []
     date_pattern = re.compile(r'^\d{2} \w{3}')

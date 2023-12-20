@@ -1,3 +1,6 @@
+# Import packages
+import pandas as pd
+
 # Initialise parameters
 password = "19011981JOS"
 input_folder = "C:/Users/josho/Dropbox/Misc/Laura Street/PDF"
