@@ -14,7 +14,7 @@ import extract_desc_from_text
 import extract_numbers_from_text
 
 # Initialise parameters
-password = "19011981JOS"
+password = ""
 input_folder = "C:/Users/josho/Dropbox/Misc/Laura Street/PDF"
 pdf_folder = "C:/Users/josho/Dropbox/Misc/Laura Street/PDF_decrypted"
 txt_output = "C:/Users/josho/Dropbox/Misc/Laura Street/text_output"

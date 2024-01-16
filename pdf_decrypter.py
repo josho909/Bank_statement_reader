@@ -1,7 +1,7 @@
 import decrypt_and_save_pdfs
 
 # Initialise parameters
-password = "19011981JOS"
+password = ""
 input_folder = "C:/Users/josho/Dropbox/Misc/Laura Street/PDF"
 pdf_folder = "C:/Users/josho/Dropbox/Misc/Laura Street/PDF_decrypted"
 
